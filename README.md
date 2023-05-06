@@ -1,11 +1,9 @@
 <h1 align="center">Howdy, I'm Lisa</h1>
-<h3 align="center">A 18 year old Girl Developer from Berlin.</h3>
+<h3 align="center">A 18 year old Girl from Berlin.</h3>
 
 - 🔭 I’m currently working on **many projects**
 
 - 💬 Ask me about **everything your heart desires <3**
-
-- ⚡ Fun fact **people think that I am not Trans as I don't appear feminine.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
