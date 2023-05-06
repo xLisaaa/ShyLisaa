@@ -1,5 +1,5 @@
 <h1 align="center">Howdy, I'm Lisa</h1>
-<h3 align="center">A 17y/o transgender (MTF) Developer from Berlin.</h3>
+<h3 align="center">A 18 year old Girl Developer from Berlin.</h3>
 
 - 🔭 I’m currently working on **many projects**
 
