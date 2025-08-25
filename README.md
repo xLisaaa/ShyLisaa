@@ -37,17 +37,17 @@
 
 ### 💖 languages & tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,gradle,git,github,idea,md,html,css,js,nodejs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=idea,kotlin,java,gradle,github,mongodb,react,md&theme=light" />
 </p>
 
 ---
 
 ### ✨ github stats (pink mode)
 <p align="center">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=xLisaaa&show_icons=true&hide_border=true&title_color=ff6fb1&icon_color=ff99cc&text_color=ffffff&bg_color=0d1117" />
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=xLisaaa&show_icons=true&hide_border=true&title_color=ff6fb1&icon_color=ff99cc&text_color=ff6fb1&bg_color=ffffff" />
 </p>
 <p align="center">
-  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xLisaaa&layout=compact&hide_border=true&title_color=ff6fb1&text_color=ffffff&bg_color=0d1117" />
+  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xLisaaa&layout=compact&hide_border=true&title_color=ff6fb1&text_color=ff6fb1&bg_color=ffffff" />
 </p>
 
 ---
