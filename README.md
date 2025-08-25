@@ -42,7 +42,7 @@
 
 ---
 
-### ✨ github stats (pink mode)
+### ✨ github stats
 <p align="center">
   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=xLisaaa&show_icons=true&hide_border=true&title_color=ff6fb1&icon_color=ff99cc&text_color=ff6fb1&bg_color=ffffff" />
 </p>
@@ -52,7 +52,17 @@
 
 ---
 
-### 🍓 now
+<p align="center">
+  <img
+    alt="now"
+    src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=800&size=28&duration=2200&pause=600&center=true&vCenter=true&color=FF6FB1&width=420&lines=now+%E2%9C%A8;now+%F0%9F%8D%93;now+%F0%9F%92%95"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/---------------------------------------------------------ff6fb1?style=for-the-badge&labelColor=ffffff">
+</p>
+
 - polishing **Prism** bits & Kotlin workflows  
 - cleaning repos, documenting tiny utilities  
 - dreaming up more pink-coded tools
